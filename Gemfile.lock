@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    conditional_callback (0.0.1)
+    conditional_callbacks (1.0.0)
 
 GEM
   remote: https://rubygems.org/
@@ -21,6 +21,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  conditional_callback!
+  conditional_callbacks!
   rake
   rspec
