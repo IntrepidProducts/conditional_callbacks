@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'conditional_callbacks'
-  s.version = '1.0.0'
+  s.version = '1.0.1'
   s.date  = '2014-10-19'
   s.summary = 'ConditionalCallbacks'
   s.description = 'Calls back blocks by name'
