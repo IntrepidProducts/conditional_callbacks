@@ -15,5 +15,5 @@ Gem::Specification.new do |s|
   s.test_files = Rake::FileList['spec/*.rb']
 
   s.add_development_dependency "rspec", '~> 2'
-  s.add_development_dependency "rake", '~> 10'
+  s.add_development_dependency "rake", '>= 12.3.3'
 end
